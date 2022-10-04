@@ -12,7 +12,7 @@ A brief introduction.
 
 ## Who am I?
 
-- 3rd year Computer Engineering student at UCSD
+- **3rd year Computer** Engineering student at UCSD
 - Student Researcher at UCSD
 - HPC enthuiast & Techie
 
