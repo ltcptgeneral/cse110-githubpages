@@ -4,4 +4,4 @@ Arthur's User Page
 
 favorite programming language: C
 
-https://ltcptgeneral.github.io/cse110-githubpages/
+https://ltcptgeneral.github.io/fa22-cse110-lab1/
